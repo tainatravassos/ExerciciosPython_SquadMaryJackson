@@ -5,8 +5,8 @@
 * Lucimara Bustamante
 * Juliana Hatake
 * Camila Aragão
-* Daniela Do Nascimento Dalla Vecchia
+* Daniela do Nascimento Dalla Vecchia
 * Lorrayne Santana
 * Tainá Maria Travassos Mota Martins
-* Mariana Mehler
+* Mariana de Castro Mehler Elias
 * Stefany Silva
