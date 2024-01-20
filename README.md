@@ -2,7 +2,7 @@
 
 * Ana Carolina Torchia De Souza
 * Luana Cardoso
-* Lucimara Bustamante
+* Lucimara Costa Bustamante
 * Juliana Hatake
 * Camila Aragão
 * Daniela do Nascimento Dalla Vecchia
