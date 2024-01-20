@@ -9,4 +9,4 @@
 * Lorrayne Santana
 * Tainá Maria Travassos Mota Martins
 * Mariana de Castro Mehler Elias
-* Stefany Silva
+* Stefany Gracy Barros da Silva
