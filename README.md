@@ -41,7 +41,7 @@
 * Exercício 2 -
 * Exercício 3 - Luana
 * Exercício 4 - Stefany
-* Exercício 5 -
+* Exercício 5 - Ana Torchia
 * Exercício 6 - Tainá
 ##
 ### Lista 4 - Funções
