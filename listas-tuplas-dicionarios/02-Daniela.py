@@ -6,7 +6,7 @@ imprima o número de alunos com média maior ou igual a 7.0.
 medias_alunos = [] # Lista
 
 # Loop para coletar as quatro notas de 5 alunos
-for i in range(4):
+for i in range(5):
     print(f"\nAluno {i + 1}:")
     nota1 = float(input("Digite a primeira nota: "))
     nota2 = float(input("Digite a segunda nota: "))
