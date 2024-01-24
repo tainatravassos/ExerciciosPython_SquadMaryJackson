@@ -8,6 +8,7 @@
 # Euro: R$ 5,36
 # Libra esterlina: R$ 6,21
 
+
 conversao = {
     'Dólar Americano': 4.91,
     'Peso Argentino': 0.02,
