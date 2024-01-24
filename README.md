@@ -39,7 +39,7 @@
 ##
 ### Lista 3 - Tuplas, Listas e Dicionários
 * Exercício 1 - 
-* Exercício 2 -
+* Exercício 2 - Daniela
 * Exercício 3 - Luana
 * Exercício 4 - Stefany
 * Exercício 5 - Ana Torchia
