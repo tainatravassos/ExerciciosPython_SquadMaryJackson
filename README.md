@@ -10,6 +10,7 @@
 * Tainá Maria Travassos Mota Martins
 * Mariana de Castro Mehler Elias
 * Stefany Gracy Barros da Silva
+* Nayla Hilana da Silva
 ##
 ### Lista 1 - Conceitos Básicos
 * Exercício 1 - Luana
