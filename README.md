@@ -1,16 +1,17 @@
 ### Squad Mary Jackson:
 
 * Ana Carolina Torchia De Souza
-* Luana Cardoso
-* Lucimara Costa Bustamante
-* Juliana Silva Gonçalves
 * Camila Aragão
 * Daniela do Nascimento Dalla Vecchia
+* Juliana Silva Gonçalves
 * Lorrayne Santana
-* Tainá Maria Travassos Mota Martins
+* Luana Cardoso
+* Lucimara Costa Bustamante
 * Mariana de Castro Mehler Elias
-* Stefany Gracy Barros da Silva
 * Nayla Hilana da Silva
+* Stefany Gracy Barros da Silva
+* Tainá Maria Travassos Mota Martins
+
 ##
 ### Lista 1 - Conceitos Básicos
 * Exercício 1 - Luana
