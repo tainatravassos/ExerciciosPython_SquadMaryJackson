@@ -20,7 +20,7 @@
 * Exercício 6 - Stefany
 * Exercício 7 - Ana Carolina
 * Exercício 8 - Lucimara
-* Exercício 9 -  
+* Exercício 9 - Tainá
 * Exercício 10 - Daniela
 ##
 ### Lista 2 - Tomada de Decisão e repetição
