@@ -24,8 +24,8 @@
 * Exercício 10 - Daniela
 ##
 ### Lista 2 - Tomada de Decisão e repetição
-* Exercício 1 - 
-* Exercício 2 -
+* Exercício 1 - Tainá
+* Exercício 2 - Tainá
 * Exercício 3 -
 * Exercício 4 -
 * Exercício 5 - Daniela
@@ -41,7 +41,7 @@
 * Exercício 3 - Luana
 * Exercício 4 - Stefany
 * Exercício 5 -
-* Exercício 6 - 
+* Exercício 6 - Tainá
 ##
 ### Lista 4 - Funções
 * Exercício 1 - 
