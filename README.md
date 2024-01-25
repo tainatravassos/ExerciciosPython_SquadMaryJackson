@@ -29,7 +29,7 @@
 * Exercício 1 - Tainá
 * Exercício 2 - Tainá
 * Exercício 3 -
-* Exercício 4 -
+* Exercício 4 - Lucimara
 * Exercício 5 - Daniela
 * Exercício 6 -
 * Exercício 7 - Stefany
